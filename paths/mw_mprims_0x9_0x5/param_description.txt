@@ -1,0 +1,13 @@
+# parameter descrption file - do not edit 
+angle: 27.0
+dis: 0.9
+divideAngleBy: 1
+folderName: mw_mprims_0x9_0x5
+offsetX: 3.2
+offsetY: 4.5
+pathFile: paths
+scale: 0.65
+searchRadius: 0.5
+voxelNumX: 161
+voxelNumY: 451
+voxelSize: 0.02
