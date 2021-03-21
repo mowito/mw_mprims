@@ -1,0 +1,12 @@
+# parameter descrption file - do not edit 
+angle: '27.0'
+distance: '1.5'
+divide_angle_by: '3'
+offset_x: '3.2'
+offset_y: '4.5'
+scale: '0.65'
+search_radius: '1.0'
+uid: e14c664e-ed4f-4e43-af6d-ee81257d24101616316047241
+voxel_num_x: '161'
+voxel_num_y: '451'
+voxel_size: '0.02'
